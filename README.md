@@ -4,7 +4,7 @@ This docker image contains the basic networking tools. It is used for demo purpo
 # Building the Image
 
 ```
-docker build -t junaidali/nginx-demo
+docker build -t junaid/nginx-demo .
 ```
 
 # Running the image
